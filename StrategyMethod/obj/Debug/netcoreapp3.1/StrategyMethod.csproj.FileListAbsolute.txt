@@ -1,0 +1,13 @@
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\bin\Debug\netcoreapp3.1\StrategyMethod.exe
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\bin\Debug\netcoreapp3.1\StrategyMethod.deps.json
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\bin\Debug\netcoreapp3.1\StrategyMethod.runtimeconfig.json
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\bin\Debug\netcoreapp3.1\StrategyMethod.runtimeconfig.dev.json
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\bin\Debug\netcoreapp3.1\StrategyMethod.dll
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\bin\Debug\netcoreapp3.1\StrategyMethod.pdb
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\obj\Debug\netcoreapp3.1\StrategyMethod.csprojAssemblyReference.cache
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\obj\Debug\netcoreapp3.1\StrategyMethod.AssemblyInfoInputs.cache
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\obj\Debug\netcoreapp3.1\StrategyMethod.AssemblyInfo.cs
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\obj\Debug\netcoreapp3.1\StrategyMethod.csproj.CoreCompileInputs.cache
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\obj\Debug\netcoreapp3.1\StrategyMethod.dll
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\obj\Debug\netcoreapp3.1\StrategyMethod.pdb
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\obj\Debug\netcoreapp3.1\StrategyMethod.genruntimeconfig.cache
